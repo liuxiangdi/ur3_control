@@ -1,0 +1,11 @@
+# this is goal
+int8 mode
+float32 x
+float32 y
+float32 z
+---
+# this is result
+float32 state
+---
+# this is feedback
+float32 state
